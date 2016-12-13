@@ -1,0 +1,40 @@
+gitbash, node js, intellij IDEA, mongo DB, java 1.8
+
+Colorlib
+========
+
+1) https://github.com/JavaBird/colorlib-site
+
+
+MEDIA PIXEL DESIGN:
+==================
+
+1) https://github.com/brtnshrdr/angular2-image-zoom
+2) https://github.com/narenmakwana/infrastarz
+3) https://github.com/brtnshrdr/angular2-hotkeys
+
+xsparrow :
+=========
+
+1) https://github.com/XIMDEX/xsparrow
+
+sparrowtheme:
+ 
+1) https://github.com/Sparvnastet/sparvnastet_pelican
+2) http://html.sparrowtheme.com/imax/demo/
+
+maxshop: ( http://maxshop.doradothemes.com/en/ )
+=======
+
+1) https://github.com/webtechfreaky/maxshop-responsive-ecommerce-template
+2) https://github.com/b8000h/thememaxshop-1.3.0
+3) https://github.com/hebun/maxshop
+
+
+prestashop:
+==========
+1) https://github.com/YouriT/prestashop-bootstrap
+2) https://github.com/PrestaShop/email-templates-sdk
+3) https://github.com/Sylfaeen/prestashop_theme
+
+https://github.com/search?l=JavaScript&o=desc&q=PRESTASHOP&ref=searchresults&s=updated&type=Repositories&utf8=%E2%9C%93
